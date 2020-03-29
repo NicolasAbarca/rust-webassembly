@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "allowSyntheticDefaultImports": false,
+    "baseUrl": "./",
+    "paths": {
+      "server": ["js/server/index.js"],
+      "client": ["js/client/*"],
+      "crate": ["crate/src/*"]
+    }
+  }
+}
